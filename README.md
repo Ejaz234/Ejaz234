@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad Chand</h1>
-<h3 align="center">Full Stack MERN Developer | Java & DSA Enthusiast | Aspiring Software Engineer</h3>
+<h3 align="center">Full Stack MERN Developer | Java | DSA | Aspiring Software Engineer</h3>
 
 ---
 
@@ -72,12 +72,15 @@ Full-stack mobile application with JWT authentication, pagination feed, post cre
 Java desktop banking application implementing CRUD operations with Swing GUI and MySQL database connectivity.
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ejaz234&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz234&layout=compact" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Ejaz234&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+
 
 
 ---
