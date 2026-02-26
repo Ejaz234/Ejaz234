@@ -72,14 +72,12 @@ Full-stack mobile application with JWT authentication, pagination feed, post cre
 Java desktop banking application implementing CRUD operations with Swing GUI and MySQL database connectivity.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ejaz234&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz234&layout=compact" />
 </p>
-
 
 
 ---
