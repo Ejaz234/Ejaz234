@@ -54,10 +54,11 @@
 
 ## 🔥 Projects
 
-### 🔗 URL Shortener
+### 🔗 NoteGenius AI
 
-MERN stack web application that converts long URLs into short, shareable links with instant redirection and optional click tracking.
-🌐 Live: https://url-shortner-alpha-ten.vercel.app/
+MERN stack AI-powered web application that generates exam-ready notes instantly from any topic, including summaries and visual explanations.
+
+🌐 Live: https://ai-notesclient.onrender.com
 
 ---
 
