@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ejaz Ahmad Chand</h1>
-<h3 align="center">Full Stack Developer |Next.js • TypeScript • MERN | Java | DSA | Aspiring Software Engineer</h3>
+<h3 align="center">Full Stack Developer | Next.js • TypeScript • MERN | Java | DSA | Aspiring Software Engineer</h3>
 
 ---
 
@@ -49,7 +49,7 @@
 ---
 
 ### 💻 Programming
-![Java](https://img.shields.io/badge/Java-red)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ---
@@ -59,9 +59,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 
 ---
@@ -71,6 +70,7 @@
 ### 🚀 Forge — AI Agentic App Builder
 
 AI-powered full-stack application that transforms natural language prompts into production-ready React applications with live preview, editable code, AI chat, image support, and project history.
+
 🌐 Live: https://forge-xmll.vercel.app/
 
 
@@ -90,12 +90,13 @@ Java desktop banking application implementing CRUD operations with Swing GUI and
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ejaz234&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Ejaz234&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ejaz234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
-
 
 ---
 
